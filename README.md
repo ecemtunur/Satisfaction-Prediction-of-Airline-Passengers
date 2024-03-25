@@ -6,3 +6,5 @@ This project was developed to predict the satisfaction rates of airline customer
 **_Decision tree_**, **_k-NN_** and **_Naive bayes_** methods were applied with **_k-fold_** cross and **_train-test_** validation.
 
 Don't forget to check [dataset](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction)
+
+Developed using Google Colab tools.
